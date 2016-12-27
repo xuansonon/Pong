@@ -1,8 +1,8 @@
 # Pong
-<img src="http://i.imgur.com/ISnreGM.jpg"/>
-<br />
-<br />
 Pong, a game that we all have played at least once in a lifetime. It's a classic! The game has two players (you and the AI), each having their own "paddles" and there is one ball. The aim of the game is to get the ball to go to the opponents side and past their paddle to score a point. If you would like to play, you can try the demo at: http://playpong.xuansonon.com
+<br />
+<br />
+<img src="http://i.imgur.com/ISnreGM.jpg"/>
 <br />
 <br />
 This game has been made in JavaScript, with the help of a bit of CSS for styling (fonts and position of the canvas). The game does include sound (taken from royalty-free sites). Furthermore, the motivation for this project is to understand the JavaScript, it's objects, animations and 2D context rendering.
