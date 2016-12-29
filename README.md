@@ -17,6 +17,7 @@ You can move your own paddle with the UP and DOWN arrow keys on your keyboard. I
 - The AI is hard to defeat without increasing the speed of the ball/puck
 - Consequently, when the ball/puck speed increases, the collision detection still works but there is no offset (i.e. users may see the puck positioned behind their paddle before reflecting)
 - AI paddle moves into the top/bottom of screen (because of AI logic)
+- When the ball hits the top of the screen sometimes it will get stuck
 
 **Still to do**
 - [ ] Implement Two-Player Matches
@@ -24,3 +25,4 @@ You can move your own paddle with the UP and DOWN arrow keys on your keyboard. I
 - [ ] Correct the puck offset
 - [ ] Allow for ambigious keycodes and include extra support if no arrow keys are present (WASD keys).
 - [ ] Fix AI
+- [ ] Fix the puck logic
